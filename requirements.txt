@@ -1,3 +1,6 @@
 cloudscraper
 lxml
 beautifulsoup4
+animeflv==0.3.1
+fastapi
+uvicorn[standard]
